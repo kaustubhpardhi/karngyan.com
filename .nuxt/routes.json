@@ -4,53 +4,46 @@
     "path": "/blog",
     "component": "I:\\\\karngyan.com-1\\\\pages\\\\blog\\\\index.vue",
     "chunkName": "pages/blog/index",
-    "url": "/blog",
-    "_name": "_48cfa733"
+    "url": "/blog"
   },
   {
     "name": "projects___en",
     "path": "/projects",
     "component": "I:\\\\karngyan.com-1\\\\pages\\\\projects\\\\index.vue",
     "chunkName": "pages/projects/index",
-    "url": "/projects",
-    "_name": "_1e0e8c4a"
+    "url": "/projects"
   },
   {
     "name": "resume___en",
     "path": "/resume",
     "component": "I:\\\\karngyan.com-1\\\\pages\\\\resume\\\\index.vue",
     "chunkName": "pages/resume/index",
-    "url": "/resume",
-    "_name": "_1bf83b08"
+    "url": "/resume"
   },
   {
     "name": "uses___en",
     "path": "/uses",
     "component": "I:\\\\karngyan.com-1\\\\pages\\\\uses\\\\index.vue",
     "chunkName": "pages/uses/index",
-    "url": "/uses",
-    "_name": "_2c5e8cc9"
+    "url": "/uses"
   },
   {
     "name": "blog-slug___en",
     "path": "/blog/:slug",
     "component": "I:\\\\karngyan.com-1\\\\pages\\\\blog\\\\_slug.vue",
-    "chunkName": "pages/blog/_slug",
-    "_name": "_471905eb"
+    "chunkName": "pages/blog/_slug"
   },
   {
     "name": "projects-slug___en",
     "path": "/projects/:slug",
     "component": "I:\\\\karngyan.com-1\\\\pages\\\\projects\\\\_slug.vue",
-    "chunkName": "pages/projects/_slug",
-    "_name": "_217bceda"
+    "chunkName": "pages/projects/_slug"
   },
   {
     "name": "index___en",
     "path": "/",
     "component": "I:\\\\karngyan.com-1\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "url": "/",
-    "_name": "_111ea7d5"
+    "url": "/"
   }
 ]
