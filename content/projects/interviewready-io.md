@@ -1,8 +1,8 @@
 ---
 id: 1
-title: get.interviewready.io
-description: a system design course website serving 5k+ users, content provided by youtuber gaurav sen. (freelance)
-tech: golang nuxt postgres aws
+title: Uplevel
+description: a skill based hiring platform that let candidates stand out from the crowd,land their dream job - single handedly built backend of 3 portals of the whole product.
+tech: javascript nodejs reactjs expressjs postgres
 logo: /images/interviewready-io.png
 website: https://get.interviewready.io
 github: https://github.com/InterviewReady
@@ -13,7 +13,7 @@ twitter: gyankarn
 
 ## Quod Alemone auctorem perdiderat conplevit nempe Achille
 
-Lorem markdownum temporis sibi *victor*, saxo [tutaque
+Lorem markdownum temporis sibi _victor_, saxo [tutaque
 fides](http://perseus.io/) exit! Harenas tumulo molles tenebras dracone metit,
 numina, ipse Somnia, protulit.
 
@@ -25,7 +25,7 @@ numina, ipse Somnia, protulit.
 
 Accendit recepta angue, Nasamoniaci sunt fraterno curae, post. His marito vox.
 
-Tenebat *deum iterum lacrimis* nutrix! Clauditur nostros et exuviis monstri, ubi
+Tenebat _deum iterum lacrimis_ nutrix! Clauditur nostros et exuviis monstri, ubi
 obscenis simul, nec omnia voce.
 
 - Nomen paulatim passimque at egressa quoniam melior
@@ -54,7 +54,7 @@ fero o harenam venerat voce super te bis effreno barbara faciemque.
 4. Utque firmas
 5. Et discurrunt triste
 
-Quid spe sustinuit, dispersa temperat, aureus, utraque *plura*; nec nec dolens
+Quid spe sustinuit, dispersa temperat, aureus, utraque _plura_; nec nec dolens
 monstrum. Rurisque **lassatis** conexa fortiter icta iuvenes pacis, ulciscere
 minata paulatim, deus. Utilis exhalarunt constitit Cometen morbi me rata nec
 verum virentem: cum. Auras senex moram, a fugant quoque, ora qui quos castaque

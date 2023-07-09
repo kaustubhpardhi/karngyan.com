@@ -1,8 +1,8 @@
 ---
-id: 2
-title: Reddit Backend Microservices
-description: Introducing my Reddit backend clone, a platform built using microservices and gRPC. It offers an efficient and scalable solution for community-based interactions.
-tech: javascript nodejs grcp
+id: 3
+title: Billing Systems
+description: Engineered end-to-end billing systems from the ground up, I seamlessly integrated frontend interfaces with robust backend architectures to create scalable applications. With a user base actively utilizing these systems.
+tech: javascript reactjs nodejs mongodb aws
 logo: /images/covidhelp-page.png
 website: https://covidhelp.page
 github: https://github.com/karngyan/covidhelp.ui
