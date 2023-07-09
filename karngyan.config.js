@@ -1,10 +1,10 @@
 // Upload files in static/ So any file static/file.pdf -> /file.pdf is accessible at root
 
 export default {
-  name: "kaustubh pardhi",
-  domain: "template.karngyan.com", // add without https:// , used in meta tags and share urls
+  name: "Kaustubh Pardhi",
+  // domain: "template.karngyan.com", // add without https:// , used in meta tags and share urls
   image: "/images/bigheadkarngyan.png",
-  email: "mail@karngyan.com",
+  email: "kaustubhpardhi006@gmail.com",
   googleAnalyticsV4: {
     enabled: false,
     id: ""
@@ -22,10 +22,10 @@ export default {
     enabled: false
   },
   social: {
-    github: "karngyan",
-    linkedin: "karngyan",
+    github: "kaustubhpardhi",
+    linkedin: "kaustubh-p-16a32915a/",
     facebook: "karnsometimes",
-    twitter: "gyankarn",
+    // twitter: "gyankarn",
     instagram: "karngyan.dev",
     codestats: "karngyan" // https://codestats.net make a profile if you dont already have one.
   },
@@ -41,7 +41,7 @@ export default {
   },
   resume: {
     enabled: true,
-    pdfUrl: "/RESUME_GYAN_KARN_DARK.pdf" // add files in static folder
+    pdfUrl: "/KAUSTUBH_PARDHI.pdf" // add files in static folder
   },
   uses: {
     enabled: false,

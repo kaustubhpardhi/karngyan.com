@@ -4,9 +4,9 @@ title: Billing Systems
 description: Engineered end-to-end billing systems from the ground up, I seamlessly integrated frontend interfaces with robust backend architectures to create scalable applications. With a user base actively utilizing these systems.
 tech: javascript reactjs nodejs mongodb aws
 logo: /images/covidhelp-page.png
-website: https://covidhelp.page
-github: https://github.com/karngyan/covidhelp.ui
-twitter: gyankarn
+# website: https://covidhelp.page
+# github: https://github.com/karngyan/covidhelp.ui
+# twitter: gyankarn
 ---
 
 # Creten se ad guttur aquis oracula cineres

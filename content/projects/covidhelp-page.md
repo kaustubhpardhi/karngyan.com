@@ -4,9 +4,9 @@ title: Reddit Backend Microservices
 description: Introducing my Reddit backend clone, a platform built using microservices and gRPC. It offers an efficient and scalable solution for community-based interactions.
 tech: javascript nodejs grcp
 logo: /images/covidhelp-page.png
-website: https://covidhelp.page
-github: https://github.com/karngyan/covidhelp.ui
-twitter: gyankarn
+website: https://nifty-croissant-1dc.notion.site/Reddit-Microservices-1bfe9bd9eaf24b1e952584c6677b5513?pvs=4
+github: https://nifty-croissant-1dc.notion.site/Reddit-Microservices-1bfe9bd9eaf24b1e952584c6677b5513?pvs=4
+# twitter: gyankarn
 ---
 
 # Creten se ad guttur aquis oracula cineres

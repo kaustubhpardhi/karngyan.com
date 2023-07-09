@@ -4,9 +4,9 @@ title: Uplevel
 description: a skill based hiring platform that let candidates stand out from the crowd,land their dream job - single handedly built backend of 3 portals of the whole product.
 tech: javascript nodejs reactjs expressjs postgres
 logo: /images/interviewready-io.png
-website: https://get.interviewready.io
-github: https://github.com/InterviewReady
-twitter: gyankarn
+website: https://nifty-croissant-1dc.notion.site/Uplevel-d16c7839769443fca5a8a1452cd4b41e?pvs=4
+github: https://nifty-croissant-1dc.notion.site/Uplevel-d16c7839769443fca5a8a1452cd4b41e?pvs=4
+# twitter: gyankarn
 ---
 
 # Sed etiam fuit oraque est
