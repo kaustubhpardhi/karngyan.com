@@ -1,0 +1,44 @@
+{
+  "GithubCalendar": {
+    "description": "Auto imported from components/home/GithubCalendar.vue"
+  },
+  "HeroSection": {
+    "description": "Auto imported from components/home/HeroSection.vue"
+  },
+  "RecentBlog": {
+    "description": "Auto imported from components/home/RecentBlog.vue"
+  },
+  "Recommendations": {
+    "description": "Auto imported from components/home/Recommendations.vue"
+  },
+  "TheLogo": {
+    "description": "Auto imported from components/logos/TheLogo.vue"
+  },
+  "BlogCard": {
+    "description": "Auto imported from components/blog/BlogCard.vue"
+  },
+  "ProjectCard": {
+    "description": "Auto imported from components/projects/ProjectCard.vue"
+  },
+  "Comment": {
+    "description": "Auto imported from components/Comment.vue"
+  },
+  "CommentInput": {
+    "description": "Auto imported from components/CommentInput.vue"
+  },
+  "Like": {
+    "description": "Auto imported from components/Like.vue"
+  },
+  "PdfViewer": {
+    "description": "Auto imported from components/PdfViewer.vue"
+  },
+  "TheFooter": {
+    "description": "Auto imported from components/TheFooter.vue"
+  },
+  "TheNavBar": {
+    "description": "Auto imported from components/TheNavBar.vue"
+  },
+  "UserAvatar": {
+    "description": "Auto imported from components/UserAvatar.vue"
+  }
+}
